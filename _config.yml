@@ -1,5 +1,5 @@
 title: Ruth Bosshart-Rohrbach
-description: Eine Welt voller Farben und Muster. Das Quilten und Patchworken der Schweizer Künstlerin Ruth Bosshart-Rohrbach.
+description: A world full of colors and patterns. The works of Swiss artist Ruth Bosshart-Rohrbach.
 author: Ruth Bosshart-Rohrbach
 
 remote_theme: pmarsceill/just-the-docs
@@ -8,8 +8,8 @@ search_enabled: false
 
 # Aux links for the upper right navigation
 aux_links:
-  "English version":
-    - "//github.com/pmarsceill/just-the-docs"
+  "Deutsch":
+    - "aronsommer.github.io/fss-en/"
 
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2020 Ruth Bosshart-Rohrbach"
