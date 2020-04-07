@@ -1,0 +1,26 @@
+title: Ruth Bosshart-Rohrbach
+description: Eine Welt voller Farben und Muster. Das Quilten und Patchworken der Schweizer Künstlerin Ruth Bosshart-Rohrbach.
+author: Ruth Bosshart-Rohrbach
+
+remote_theme: pmarsceill/just-the-docs
+color_scheme: nil
+search_enabled: false
+
+# Aux links for the upper right navigation
+aux_links:
+  "English version":
+    - "//github.com/pmarsceill/just-the-docs"
+
+# Footer content appears at the bottom of every page's main content
+footer_content: "Copyright &copy; 2020 Ruth Bosshart-Rohrbach"
+
+# Set a path/url to a logo that will be displayed instead of the title
+# logo: "/images/oktopus.png"
+
+# Heading anchor links appear on hover over h1-h6 tags in page content
+# allowing users to deep link to a particular heading on a page.
+# Supports true (default) or false/nil
+heading_anchors: false
+
+# Google Analytics Tracking (optional)
+# ga_tracking: UA-2709176-10
