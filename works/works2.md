@@ -1,5 +1,5 @@
 ---
-title: Werke 2015 & 2016
+title: Works 2015 & 2016
 parent: Gallery
 has_children: false
 nav_order: 2

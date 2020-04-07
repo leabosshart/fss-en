@@ -1,5 +1,5 @@
 ---
-title: Werke 2011-2014
+title: Works 2011-2014
 parent: Gallery
 has_children: false
 nav_order: 3

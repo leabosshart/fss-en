@@ -1,5 +1,5 @@
 ---
-title: Werke 2017–2019
+title: Works 2017–2019
 parent: Gallery
 has_children: false
 nav_order: 1
