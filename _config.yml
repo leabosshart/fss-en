@@ -9,7 +9,7 @@ search_enabled: false
 # Aux links for the upper right navigation
 aux_links:
   "Deutsch":
-    - "aronsommer.github.io/fss-en/"
+    - "https://www.aronsommer.github.io/fss-en/"
 
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2020 Ruth Bosshart-Rohrbach"
