@@ -5,6 +5,11 @@ $nav-child-link-color: #000000;
 //$link-color: #000000;
 //.page {text-align: center;}
 
+// allow line breaks for link
+.page a {
+white-space: normal !important;
+}
+
 ////
 //// Typography
 ////
