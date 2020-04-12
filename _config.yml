@@ -2,7 +2,8 @@ title: Ruth Bosshart-Rohrbach
 description: A world full of colors and patterns. The works of Swiss artist Ruth Bosshart-Rohrbach.
 author: Ruth Bosshart-Rohrbach
 
-remote_theme: pmarsceill/just-the-docs
+# remote_theme: pmarsceill/just-the-docs
+remote_theme: leabosshart/just-the-docs
 color_scheme: nil
 search_enabled: false
 
