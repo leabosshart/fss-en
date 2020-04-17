@@ -16,7 +16,7 @@ color: #27262b;
 
 .navigation-list-link:hover {
 color: #27262b;
-text-decoration: underline;
+//text-decoration: underline;
 //border-radius: 25px;
 //background: #CDCDCD;
 //padding-left: 20px;
@@ -25,6 +25,8 @@ text-decoration: underline;
 }
 
 .navigation-list-link.active {
+font-weight: normal !important;
+text-decoration: underline !important;
 //color: white !important;
 //border-radius: 25px;
 //background: #7253ed;
