@@ -38,6 +38,8 @@ Maryline Collioud-Robert: [marylinecollioudrobert.com](http://www.marylinecollio
 
 ## Press
 
+Cover image in the PatCHquilt bulletin, issue spring 2020 > <a href="documents/patchquilt-bulletin.pdf" target="_blank">PatCHquilt bulletin</a>
+
 Color Improvisations 2 in Neumünster, 2016. Curator: Nancy Crow > [Bernina-Blog](https://blog.bernina.com/de/2016/02/ausstellungstipps-maerz-2016/){:target="_blank"}
 
 Article about the opening of the 6th European Quilt-Triennial in Heidelberg, 2015 > [Bernina-Blog](https://blog.bernina.com/de/2015/10/eroeffnung-europaeischen-quilt-triennale/){:target="_blank"}
