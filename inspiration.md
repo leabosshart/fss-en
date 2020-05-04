@@ -6,9 +6,9 @@ nav_order: 5
 
 # Sources of inspiration
 
-- [Textilmuseum St.Gallen/CH](http://www.textilmuseum.ch/){:target="_blank"}
+- [Textile Museum of St. Gallen, Switzerland](http://www.textilmuseum.ch/){:target="_blank"}
 
-- [Fondation Beyeler Museum, Riehen/CH](http://www.fondationbeyeler.ch/){:target="_blank"}
+- [Fondation Beyeler Museum, Riehen, Switzerland](http://www.fondationbeyeler.ch/){:target="_blank"}
 
 - Nancy Crow – Symphonies in Cloth (Buch)
 
