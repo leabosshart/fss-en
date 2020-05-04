@@ -9,7 +9,7 @@ has_toc: false
 
 - 2020: Color Improvisations 2 at the Springfield Museum of Art in Ohio, USA
 - [2017: Color Improvisations 2 in Konstanz, Germany]({{ site.baseurl }}{% link exhibitions/exhibitions1.md %})
-- [2016: Mini.Usstellig, Art in the town hall Lichtensteig, Switzerland]({{ site.baseurl }}{% link exhibitions/exhibitions2.md %})
+- [2016: Solo exhibition «ART Quilt», series Mini.Usstellig, Art in the town hall Lichtensteig, Switzerland]({{ site.baseurl }}{% link exhibitions/exhibitions2.md %})
 - 2016: Color Improvisations 2 in Neumünster, Germany
 - 2015/2016: 6th European Quilt Triennial in Heidelberg, Germany
 - 2012: Solo exhibition «Blumen im Magazin» in Ebnat-Kappel, Switzerland
