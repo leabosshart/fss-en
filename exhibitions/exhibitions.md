@@ -13,10 +13,10 @@ has_toc: false
 - 2016: Color Improvisations 2 in Neumünster, Germany
 - 2015/2016: 6th European Quilt Triennial in Heidelberg, Germany
 - 2012: Solo exhibition «Blumen im Magazin» in Ebnat-Kappel, Switzerland
-- 2011: Gruppenausstellung von Schülerinnen von Nancy Crow Karlsruhe/D
-- 2009: Einzelausstellung Pfarreiheim in Ganterschwil/CH
-- 2009: Ausstellung Kunsthandwerkgalerie in Lütisburg/CH
-- 2008: Gruppenausstellung im Möbelhaus Oertli, Quiltgruppe Mönchaltdorf/CH
-- 2008: Gruppenausstellung Schokoladenfabrik Munz AG in Flawil/CH
-- 2006: Einzelausstellung «Blumen im Magazin» in Ebnat-Kappel/CH
-- 2000: Gruppenausstellung Kirchgemeindehaus in Lichtensteig/CH
+- 2011: Group exhibition of Nancy Crow's students in Karlsruhe, Germany
+- 2009: Solo exhibition in the parish community centre in Ganterschwil, Switzerland
+- 2009: Exhibition at the Kunsthandwerkgalerie (art & craft gallyery) in Lütisburg, Switzerland
+- 2008: Group exhibition at the Möbelhaus Oertli (furniture store) with the quilt group Mönchaltdorf, Switzerland
+- 2008: Group exhibition at the chocolate factory Munz AG in Flawil, Switzerland
+- 2006: Solo exhibition «Blumen im Magazin» in Ebnat-Kappel, Switzerland
+- 2000: Group exhibition at the church parish in Lichtensteig, Switzerland
