@@ -1,6 +1,6 @@
 ---
-title: Werke 2020
-parent: Galerie
+title: Works 2020
+parent: Gallery
 has_children: false
 nav_order: 1
 ---
